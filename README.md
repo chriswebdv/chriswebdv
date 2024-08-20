@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning webdev from the odin project
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me via my email
-- 😄 Pronouns: He
 - ⚡ Fun fact: Love my family
 
 <!---
